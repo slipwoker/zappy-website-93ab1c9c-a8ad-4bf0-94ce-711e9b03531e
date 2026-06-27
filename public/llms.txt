@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 1**
+
+### משתמש פורטנייט OG
+https://example.com/product/mshtmsh-pvrtnyyt-og-7sm0p8
+- Price: 50.00 ILS
+- Availability: In stock
+- Description: לעוד פרטים על המשתמש , שלחו הודעה לטיקטוק : frosty_offical_fn חשוב להבהיר ש- התמונה שאתם רואים זה לא הכל זה רק הדברים הנדירים
+- Image: https://example.com/assets/product-1782566982229-7zttu.webp
 
 ---
 

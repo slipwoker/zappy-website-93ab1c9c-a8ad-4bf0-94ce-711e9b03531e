@@ -1,8 +1,31 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-27T13:26:47.150Z",
+  "generated_at": "2026-06-27T13:34:45.652Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "c18e80c9-6a66-490a-99c9-a3cf406ce328",
+      "slug": "mshtmsh-pvrtnyyt-og-7sm0p8",
+      "name": "משתמש פורטנייט OG",
+      "name_translations": {},
+      "description": "",
+      "short_description": "לעוד פרטים על המשתמש , שלחו הודעה לטיקטוק : frosty_offical_fn\nחשוב להבהיר ש-\nהתמונה שאתם רואים זה לא הכל זה רק הדברים הנדירים",
+      "sku": null,
+      "brand": null,
+      "price": 50,
+      "base_price": 50,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1782566982229-7zttu.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/mshtmsh-pvrtnyyt-og-7sm0p8",
+      "categories": [],
+      "updated_at": "2026-06-27T13:33:45.133Z"
+    }
+  ]
 }

@@ -4,6 +4,18 @@
     <title>Frosty shop | פרוסטי שופ ❄️</title>
     <link>https://example.com</link>
     <description>Product feed for Frosty shop | פרוסטי שופ ❄️</description>
-    <lastBuildDate>Sat, 27 Jun 2026 13:26:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 13:34:45 GMT</lastBuildDate>
+    <item>
+      <g:id>c18e80c9-6a66-490a-99c9-a3cf406ce328</g:id>
+      <g:title>משתמש פורטנייט OG</g:title>
+      <g:description>לעוד פרטים על המשתמש , שלחו הודעה לטיקטוק : frosty_offical_fn חשוב להבהיר ש- התמונה שאתם רואים זה לא הכל זה רק הדברים הנדירים</g:description>
+      <g:link>https://example.com/product/mshtmsh-pvrtnyyt-og-7sm0p8</g:link>
+      <g:image_link>https://example.com/assets/product-1782566982229-7zttu.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>50.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Frosty shop | פרוסטי שופ ❄️</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>
