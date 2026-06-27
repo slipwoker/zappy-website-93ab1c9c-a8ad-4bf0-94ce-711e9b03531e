@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://frosty-shop-93ab1c9c.zappy5.app
+https://example.com
 מחפש את הפלטפורמה הכי טובה למכירות אונליין? פרוסטי שופ מביא לך אתר מסחר אלקטרוני מנצח עם דגש על מכירת משתמשים, B2B ואמזון. הצטרף עכשיו והתחיל להרוויח!
 
 ### למה פרוסטי שופ
-https://frosty-shop-93ab1c9c.zappy5.app/why-frosty-shop
+https://example.com/why-frosty-shop
 עסקים קטנים עוברים לפרוסטי שופ ומגדילים הכנסות בפורטנייט! אנחנו פלטפורמת B2B שמחברת אותך לעולם המכירות באמזון. למה להסתפק בפחות? כנסו וגלו את הסוד.
 
 ### סטייל וקיימות
-https://frosty-shop-93ab1c9c.zappy5.app/style-and-sustainability
+https://example.com/style-and-sustainability
 לא רק יפה – גם ירוק. עמוד הסטייל והקיימות של פרוסטי שופ מראה איך פלטפורמת מסחר אלקטרוני יכולה להיות גם מעוצבת וגם אחראית לסביבה. התחילו למכור נכון יותר היום!
 
 ### צור קשר
-https://frosty-shop-93ab1c9c.zappy5.app/contact
+https://example.com/contact
 מוכנים להקפיץ את העסק? צרו קשר עם צוות פרוסטי שופ ותקבלו ייעוץ חינם לבניית פלטפורמת מסחר אלקטרוני שמתאימה בדיוק לעסק הקטן שלכם. אל תפספסו את ההזדמנות!
 
 ### Products
-https://frosty-shop-93ab1c9c.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Frosty shop | פרוסטי שופ ❄️
 
 ### Cart
-https://frosty-shop-93ab1c9c.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://frosty-shop-93ab1c9c.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://frosty-shop-93ab1c9c.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://frosty-shop-93ab1c9c.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://frosty-shop-93ab1c9c.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://frosty-shop-93ab1c9c.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Frosty shop | פרוסטי שופ ❄️
 
 ### Category
-https://frosty-shop-93ab1c9c.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Frosty shop | פרוסטי שופ ❄️
 
 ### תודה שפניתם | Frosty shop
-https://frosty-shop-93ab1c9c.zappy5.app/thank-you
+https://example.com/thank-you
 Frosty shop | פרוסטי שופ ❄️ - תודה שפניתם | Frosty shop
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://frosty-shop-93ab1c9c.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://frosty-shop-93ab1c9c.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://frosty-shop-93ab1c9c.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -98,8 +98,8 @@ E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://frosty-shop-93ab1c9c.zappy5.app/sitemap.xml
-- Robots: https://frosty-shop-93ab1c9c.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://frosty-shop-93ab1c9c.zappy5.app/llms-full.txt
-- Products (JSON): https://frosty-shop-93ab1c9c.zappy5.app/products.json
-- Products (Google Merchant RSS): https://frosty-shop-93ab1c9c.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
